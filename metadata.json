@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Consulta CNPJ",
+  "description": "Frontend moderno para consulta de dados de CNPJ usando a API pública com resumo e renderização dinâmica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
